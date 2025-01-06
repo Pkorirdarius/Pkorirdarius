@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Darius Korir and I'm a full stck developer, from Kenya </h2>
+<h2 align="left">Hi 👋! My name is Darius Korir and I'm a Full stack developer, from Kenya</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/MHmkrR9D9gviU/giphy.gif?cid=ecf05e474j9juwfpvz4tzrb98gch18cypv1r464zlzc5gyyu&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
 
