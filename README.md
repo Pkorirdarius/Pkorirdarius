@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Darius Korir and I'm a full stck developer, from Kenya </h2>
 
 ###
 
@@ -45,5 +45,34 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Pkorirdarius/Pkorirdarius/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pkorirdarius.Pkorirdarius&"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left"><br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning in Kabarak University<br>- ⚡ In my free time I try learning new programming languages</p>
+
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Pkorirdarius&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
