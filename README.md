@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Darius Korir and I'm a Full stack developer, from Kenya</h2>
+<h2 align="left">Hi 👋! My name is Darius Korir and I'm a Full-stack developer, from Kenya</h2>
 
 ###
 
