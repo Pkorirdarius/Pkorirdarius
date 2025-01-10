@@ -62,7 +62,7 @@
 
 ###
 
-<p align="left"><br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning in Kabarak University<br>- ⚡ In my free time I try learning new programming languages</p>
+<p align="left"><br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning in Kabarak University<br>- ⚡ In my free time I try learning new programming languages and build on my data science skills</p>
 
 
 ###
