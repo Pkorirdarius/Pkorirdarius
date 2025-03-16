@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/MHmkrR9D9gviU/giphy.gif?cid=ecf05e474j9juwfpvz4tzrb98gch18cypv1r464zlzc5gyyu&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<div align="right">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 ###
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pkorirdarius)](https://github.com/ryo-ma/github-profile-trophy)
