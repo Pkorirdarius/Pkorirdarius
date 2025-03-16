@@ -12,9 +12,10 @@
 <img height="150" align="right"  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ###
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pkorirdarius)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pkorirdarius&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div width="80%">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Pkorirdarius)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Pkorirdarius&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 ###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
