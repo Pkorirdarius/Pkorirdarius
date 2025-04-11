@@ -11,7 +11,7 @@
 
 ###
 
-<img height="150" align="right"  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img height="150" align="right"  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="position:relative" />
 
 ###
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pkorirdarius)](https://github.com/ryo-ma/github-profile-trophy)
