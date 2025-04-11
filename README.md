@@ -1,8 +1,8 @@
-<h2 align="left"><img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-0a64-61f7-8a59-775259c225f0/raw?se=2025-04-11T16%3A28%3A10Z&sp=r&sv=2024-08-04&sr=b&scid=945ad483-47b5-5afc-848a-7e3cc61a9c00&skoid=0abefe37-d2bd-4fcb-bc88-32bccbef6f7d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-11T01%3A45%3A01Z&ske=2025-04-12T01%3A45%3A01Z&sks=b&skv=2024-08-04&sig=t281fDYZU9vMHjDRpPlbLupU6VZ27N1558%2BSgcF7hf8%3D"  height="900"></h2>
+<h2 align="center"><img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-0a64-61f7-8a59-775259c225f0/raw?se=2025-04-11T16%3A28%3A10Z&sp=r&sv=2024-08-04&sr=b&scid=945ad483-47b5-5afc-848a-7e3cc61a9c00&skoid=0abefe37-d2bd-4fcb-bc88-32bccbef6f7d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-11T01%3A45%3A01Z&ske=2025-04-12T01%3A45%3A01Z&sks=b&skv=2024-08-04&sig=t281fDYZU9vMHjDRpPlbLupU6VZ27N1558%2BSgcF7hf8%3D"></h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Pkorirdarius&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pkorirdarius&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
