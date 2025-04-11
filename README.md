@@ -5,13 +5,10 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Pkorirdarius&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pkorirdarius&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="150" align="right"  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
 
 ###
-
-###
-
-<img height="150" align="right"  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="position:relative" />
 
 ###
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pkorirdarius)](https://github.com/ryo-ma/github-profile-trophy)
