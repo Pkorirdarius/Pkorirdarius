@@ -1,4 +1,4 @@
-<h2 align="center"><img src="./images/ChatGPT Image Apr 15, 2025, 07_26_45 PM.png" height="950"></h2>
+<h2 align="center"><img src="./images/ChatGPT Image Apr 15, 2025, 07_26_45 PM.png" height="800" width="100%"></h2>
 
 ###
 
