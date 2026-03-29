@@ -65,7 +65,7 @@ class Darius:
 ## `$ cat learning_journey.log`
 
 ```
-[2024] ──► Started CS at Kabarak University
+[2023] ──► Started CS at Kabarak University
 [2024] ──► Fell in love with Python & data
 [2025] ──► Diving deep into Machine Learning
 [2025] ──► Building data science projects
